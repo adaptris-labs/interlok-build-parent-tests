@@ -1,0 +1,17 @@
+plugins {
+    id 'java'
+}
+
+repositories {
+    maven {
+        url = uri('https://repo.gradle.org/gradle/libs')
+    }
+}
+
+dependencies {
+    testImplementation('org.gradle:sample-check:0.12.6')
+    testImplementation(gradleTestKit())
+    testRuntimeOnly('org.slf4j:slf4j-simple:1.7.16')
+}
+
+sourceSets["test"].resources.srcDirs("src/test/samples")

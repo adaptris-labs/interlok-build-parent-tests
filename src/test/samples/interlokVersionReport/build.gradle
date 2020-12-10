@@ -1,0 +1,3 @@
+allprojects {
+    apply from: "https://raw.githubusercontent.com/adaptris-labs/interlok-build-parent/master/build.gradle"
+}

@@ -1,0 +1,15 @@
+> Task :localizeConfig NO-SOURCE
+> Task :verifyLauncherJar
+
+> Task :interlokVersionReport
+Bootstrap of Interlok 3.11.1-RELEASE(2020-11-30:10:51:59 GMT) complete
+Version Information
+  Base Interlok: 3.11.1-RELEASE(2020-11-30:10:51:59 GMT)
+  Interlok Annotation Support: 3.11.1-RELEASE(2020-11-30:10:51:17 GMT)
+  Interlok Bootstrap: 3.11.1-RELEASE(2020-11-30:10:51:19 GMT)
+  Interlok Common Classes: 3.11.1-RELEASE(2020-11-30:10:51:25 GMT)
+  Interlok Config Pre-Processor: variable substitution support: 3.11.1-RELEASE(2020-11-30:11:02:09 GMT)
+  Interlok Logging: 3.11.1-RELEASE(2020-11-30:10:58:25 GMT)
+
+BUILD SUCCESSFUL in 0s
+2 actionable tasks: 2 executed
